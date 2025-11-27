@@ -1,1 +1,1 @@
-Este es el nuevo fichero que cree
+Esta es la actualizacion del texto2.txt que cree de prueba
